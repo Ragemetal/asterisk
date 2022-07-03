@@ -1,0 +1,130 @@
+context atr-operators {
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_89123456789 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+	_84951234568 => {
+		NoOp(Permission denied);
+		Hangup();
+	};
+};
